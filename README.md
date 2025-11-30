@@ -19,4 +19,13 @@ A simple full-stack Notes application built using the MERN stack.
 - Clean project structure
 
 ## 📁 Project Structure
+mern-notes-app/
+├── backend/
+│ ├── index.js
+│ ├── package.json
+│ └── .env
+├── frontend/
+│ ├── src/
+│ ├── vite.config.js
+│ └── package.json
 
